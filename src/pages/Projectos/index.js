@@ -15,7 +15,7 @@ export default function Projectos() {
       imagem: ptumImg,
       descricaoCompleta: `Tive a oportunidade de desenvolver e fazer o design da interface no Figma do website institucional do PTUM, utilizando HTML, CSS e JavaScript no frontend, com integração ao WordPress via PHP no backend para a fácil gestão de conteúdo. O projeto teve como objetivo apresentar de forma clara e acessível as ações de requalificação urbana em Maputo.`,
       tecnologias: ['HTML', 'CSS', 'JS', 'PHP', 'FIGMA'],
-      link: 'https://www.ptum.co.mz',
+      link: 'https://www.ptum.gov.mz',
     },
     {
       id: 2,
