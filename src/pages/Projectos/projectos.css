@@ -1,0 +1,10 @@
+.projectos{
+    flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.projecto-body p{
+  font-size: 15px;
+  text-align: justify;
+}

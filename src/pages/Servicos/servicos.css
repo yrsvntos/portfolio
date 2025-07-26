@@ -1,0 +1,12 @@
+.servicos{
+    flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.servicos-box p{
+    font-size: 18px;
+    /* color: #bab9b9; */
+    font-weight: lighter;
+    
+}

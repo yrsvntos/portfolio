@@ -1,0 +1,13 @@
+.erro{
+    flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.erro h1{
+    font-size: 150px;
+}
+
+a{
+    text-decoration: none;
+}
