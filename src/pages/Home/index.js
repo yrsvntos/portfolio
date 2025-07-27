@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './home.css';
 
 export default function Home(){
-    const texto = "Desenvolvedor Web Front-End & UI/UX Designer.";
+    const texto = "Deesenvolvedor Web Front-End & UI/UX Designer.";
     const [displayedText, setDisplayedText] = useState("");
     const [showCursor, setShowCursor] = useState(true);
 

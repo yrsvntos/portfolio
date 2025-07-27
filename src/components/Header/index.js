@@ -12,9 +12,9 @@ export default function Header(){
     return(
         <>
             <nav className="navbar navbar-expand-lg  border-bottom">
-                <div className="container py-2">
+                <div className="container py-2 d-flex justify-content-between align-items-center">
                     <NavLink to='/' className="navbar-brand fw-bold">
-                        <img src={logo} alt="logo" style={{width: '100%', height: '50px', objectFit: 'contain'}} />
+                        <img src={logo} alt="logo" style={{width: '100px', height: 'auto', objectFit: 'contain'}} />
                     </NavLink>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent">
                         <span className="navbar-toggler-icon"></span>
